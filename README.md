@@ -2,7 +2,7 @@
 
 <h1  align="center"><img alt="gif" width="60" src="https://camo.githubusercontent.com/26098c97057f9d7ceed5d9dd0d9ed7bd677e603be55e04bab3ddcb927b1d002d/68747470733a2f2f656d2d636f6e74656e742e7a6f626a2e6e65742f736f757263652f736b7970652f3238392f6d616e2d746563686e6f6c6f676973745f31663436382d323030642d31663462622e706e67"> Hi <img alt="wavehand" width="30" src="https://camo.githubusercontent.com/424d2a0e9b39477de3bf7b79acb71fad055dc70e0d6f24f8d774541ad9471d41/68747470733a2f2f656d2d636f6e74656e742e7a6f626a2e6e65742f736f757263652f6d6963726f736f66742d7465616d732f3336332f776176696e672d68616e645f31663434622e706e67">, I'm Rakesh Kumar <img alt="gif" width="60" src="https://camo.githubusercontent.com/26098c97057f9d7ceed5d9dd0d9ed7bd677e603be55e04bab3ddcb927b1d002d/68747470733a2f2f656d2d636f6e74656e742e7a6f626a2e6e65742f736f757263652f736b7970652f3238392f6d616e2d746563686e6f6c6f676973745f31663436382d323030642d31663462622e706e67"></h1>
 <h3 align="center">A passionate Android developer from India </h3>
-<h4 align="center"> DSA! DSA! DSA! i don't like i avoid , but DSA Likes me I can't avoid!!! </h4> 
+<h4 align="center"><i> DSA! DSA! DSA! I don't like it!! I avoid , but DSA Likes me I can't avoid!!! </i></h4> 
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/bdf64db7ecc488c26bedeca8dd6a4909eecb2f05b2d06698c14013fab5b4e5cf/68747470733a2f2f692e696d6775722e636f6d2f6d5649723230372e676966">
 
